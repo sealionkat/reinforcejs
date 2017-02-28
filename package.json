@@ -1,0 +1,19 @@
+{
+  "name": "reinforcejs",
+  "version": "1.0.0",
+  "description": "**REINFORCEjs** is a Reinforcement Learning library that implements several common RL algorithms, all with web demos. In particular, the library currently includes:",
+  "main": "lib/rl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sealionkat/reinforcejs.git"
+  },
+  "author": "Karpathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sealionkat/reinforcejs/issues"
+  },
+  "homepage": "https://github.com/sealionkat/reinforcejs#readme"
+}
